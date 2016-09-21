@@ -1,0 +1,77 @@
+.section-uno{
+	background-image: url(../img/home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	padding: 200px 0px ;
+	margin-top: 0px !important;
+}
+
+.navbar{
+	margin-bottom: 0px !important;
+}
+
+.chicas{
+	color: white;
+}
+.ve-nuestro{
+	margin-top: 5%;
+}
+
+.code-girls, .video{
+	margin: 3% 0%;
+}
+
+.section-dos{
+	margin: 0% 5%;
+}
+
+.texto-code-girls, .video{
+width: 100%;
+}
+
+.section-tres{
+	background-color: yellow;
+}
+
+.imagen-hacka{
+	width: 80%;
+	margin: 5% 5%;
+}
+
+.contacto{
+	margin: 5% 5%;
+}
+
+.imagen-contacto{
+	margin: 20% 5%;
+	width: 100%
+	height:100%;
+}
+.parrafo-contacto{
+margin-bottom: 0.5%;
+}
+.nombre{
+	margin-top: 7%;
+}
+
+.form-control{
+	margin-bottom: 4%;
+}
+
+.mensaje{
+	padding-bottom: 30%;
+}
+
+.parrafo-footer{
+	background-color: #256673;
+	padding: 3% 4%;
+	margin-bottom:0%;
+	font-size: 20px;
+	color:white;
+}
+
+.amarillo{
+	color: yellow;
+}
+
