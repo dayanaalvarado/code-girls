@@ -3,17 +3,27 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
-	padding: 200px 0px ;
+	padding: 300px 0px ;
 	margin-top: 0px !important;
 }
 
 .navbar{
+	font-size: 20px;
 	margin-bottom: 0px !important;
 }
 
 .chicas{
 	color: white;
 }
+.participa-en{
+	font-size: 16px;
+}
+
+.inscribete-uno{
+font-size: 20px;
+padding: 0.8%;
+}
+
 .ve-nuestro{
 	margin-top: 5%;
 }
@@ -29,24 +39,48 @@
 .texto-code-girls, .video{
 width: 100%;
 }
+.texto-code-girls{
+font-size: 14px;
+line-height: 1.8;
+}
 
 .section-tres{
 	background-color: yellow;
+/*	padding-bottom: 10%;*/
 }
 
+.hacka{
+	margin-top: 13%;
+}
+.participa{
+		font-size: 17px;
+
+	margin: 3% 0%;
+}
+
+.inscribete-dos{
+font-size: 18px;
+padding: 1.3%;
+}
+
+.idea{
+	font-size: 17px;
+}
 .imagen-hacka{
 	width: 80%;
-	margin: 5% 5%;
+	margin: 8% 5%;
 }
 
 .contacto{
-	margin: 5% 5%;
+	margin: 10% 10%;
+	margin-bottom: 5%;
+	color: #323232;
 }
 
 .imagen-contacto{
-	margin: 20% 5%;
+	margin: 8% 5%;
+	margin-right: 40%;
 	width: 100%
-	height:100%;
 }
 .parrafo-contacto{
 margin-bottom: 0.5%;
@@ -60,18 +94,23 @@ margin-bottom: 0.5%;
 }
 
 .mensaje{
+	padding-top: 3%;
 	padding-bottom: 30%;
+}
+.enviar{
+	margin-bottom: 3%;
 }
 
 .parrafo-footer{
 	background-color: #256673;
 	padding: 3% 4%;
 	margin-bottom:0%;
-	font-size: 20px;
+	font-size: 18px;
 	color:white;
 }
 
 .amarillo{
+
 	color: yellow;
 }
 
